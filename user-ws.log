@@ -1,0 +1,689 @@
+2021-12-24 00:00:23.028  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 00:05:23.047  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 00:10:23.056  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 00:15:23.068  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 00:20:23.076  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 00:25:23.085  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 00:30:23.098  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 00:35:23.109  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 00:40:23.125  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 00:45:23.135  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 00:50:23.144  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 00:55:23.151  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 01:00:23.166  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 01:05:23.180  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 01:10:23.192  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 01:15:23.194  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 01:20:23.196  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 01:25:23.201  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 01:30:23.213  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 01:35:23.227  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 01:40:23.235  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 01:45:23.243  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 01:50:23.244  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 01:55:23.255  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 02:00:23.272  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 02:05:23.286  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 02:10:23.294  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 02:15:23.308  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 02:20:23.316  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 02:25:23.326  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 02:30:23.337  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 02:35:23.351  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 02:40:23.355  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 02:45:23.368  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 02:50:23.378  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 02:55:23.391  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 03:00:23.393  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 03:05:23.394  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 03:10:23.409  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 03:15:23.413  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 03:20:23.427  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 03:25:23.429  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 03:30:23.436  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 03:35:23.446  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 03:40:23.450  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 03:45:23.451  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 03:50:23.463  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 03:55:23.476  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 04:00:23.487  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 04:05:23.502  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 04:10:23.505  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 04:15:23.509  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 04:20:23.522  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 04:25:23.525  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 04:30:23.531  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 04:35:23.540  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 04:40:23.545  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 04:45:23.560  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 04:50:23.562  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 04:55:23.575  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 05:00:23.578  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 05:05:23.582  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 05:10:23.595  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 05:15:23.605  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 05:20:23.621  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 05:25:23.637  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 05:30:23.649  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 05:35:23.663  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 05:40:23.671  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 05:45:23.673  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 05:50:23.690  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 05:55:23.698  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 06:00:23.711  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 06:05:23.717  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 06:10:23.724  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 06:15:23.737  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 06:20:23.752  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 06:25:23.756  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 06:30:23.769  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 06:35:23.780  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 06:40:23.790  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 06:45:23.793  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 06:50:23.802  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 06:55:23.806  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 07:00:23.819  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 07:05:23.833  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 07:10:23.840  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 07:15:23.846  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 07:20:23.856  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 07:25:23.864  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 07:30:23.870  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 07:35:23.880  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 07:40:23.888  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 07:45:23.899  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 07:50:23.912  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 07:55:23.916  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 08:00:23.922  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 08:05:23.924  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 08:10:23.935  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 08:15:23.962  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 08:20:23.975  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 08:25:23.984  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 08:30:23.991  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 08:35:24.003  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 08:40:24.019  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 08:45:24.035  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 08:50:24.044  INFO [user-ws,,] 12056 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 09:39:07.065  INFO [user-ws,,] 13064 --- [restartedMain] com.flightApp.UserServiceApp             : Starting UserServiceApp using Java 11.0.13 on DESKTOP-PLCALCU with PID 13064 (C:\Users\user\Documents\project_apis\Flight-booking-API\userService\target\classes started by user in C:\Users\user\Documents\project_apis\Flight-booking-API\userService)
+2021-12-24 09:39:07.069  INFO [user-ws,,] 13064 --- [restartedMain] com.flightApp.UserServiceApp             : No active profile set, falling back to default profiles: default
+2021-12-24 09:39:07.214  INFO [user-ws,,] 13064 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-12-24 09:39:07.215  INFO [user-ws,,] 13064 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-12-24 09:39:10.287  INFO [user-ws,,] 13064 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-24 09:39:10.623  INFO [user-ws,,] 13064 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 323 ms. Found 1 JPA repository interfaces.
+2021-12-24 09:39:11.602  INFO [user-ws,,] 13064 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=2be5ea8f-ae78-3d4c-a7d8-422658e5fbd8
+2021-12-24 09:39:12.332  INFO [user-ws,,] 13064 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@7a71c62e' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-12-24 09:39:12.373  INFO [user-ws,,] 13064 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-12-24 09:39:14.093  INFO [user-ws,,] 13064 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8083 (http)
+2021-12-24 09:39:14.111  INFO [user-ws,,] 13064 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-12-24 09:39:14.111  INFO [user-ws,,] 13064 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.55]
+2021-12-24 09:39:14.462  INFO [user-ws,,] 13064 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-12-24 09:39:14.463  INFO [user-ws,,] 13064 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 7247 ms
+2021-12-24 09:39:15.810  INFO [user-ws,,] 13064 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-24 09:39:15.907  INFO [user-ws,,] 13064 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-12-24 09:39:16.159  INFO [user-ws,,] 13064 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-12-24 09:39:16.363  INFO [user-ws,,] 13064 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-12-24 09:39:33.841  INFO [user-ws,,] 13064 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-12-24 09:39:33.895  INFO [user-ws,,] 13064 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-12-24 09:39:37.719  INFO [user-ws,,] 13064 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-24 09:39:37.735  INFO [user-ws,,] 13064 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-24 09:39:40.127  WARN [user-ws,,] 13064 --- [restartedMain] o.s.c.s.a.z.ZipkinAutoConfiguration      : Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": connect timed out; nested exception is java.net.SocketTimeoutException: connect timed out}]
+2021-12-24 09:39:42.077  INFO [user-ws,,] 13064 --- [restartedMain] o.s.cloud.commons.util.InetUtils         : Cannot determine local hostname
+2021-12-24 09:39:42.584  WARN [user-ws,,] 13064 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-24 09:39:42.744  INFO [user-ws,,] 13064 --- [restartedMain] com.flightApp.cofig.WebSecurityConfig    : configureGlobal called
+2021-12-24 09:39:42.817  INFO [user-ws,,] 13064 --- [restartedMain] com.flightApp.cofig.WebSecurityConfig    : passwordEncoder called
+2021-12-24 09:39:43.074  WARN [user-ws,,] 13064 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2021-12-24 09:39:43.237  INFO [user-ws,,] 13064 --- [restartedMain] o.s.c.openfeign.FeignClientFactoryBean   : For 'FLIGHT-WS' URL not provided. Will try picking an instance via load-balancing.
+2021-12-24 09:39:43.662  INFO [user-ws,,] 13064 --- [restartedMain] com.flightApp.cofig.WebSecurityConfig    : authenticationManagerBean called
+2021-12-24 09:39:44.976  INFO [user-ws,,] 13064 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2021-12-24 09:39:45.449  INFO [user-ws,,] 13064 --- [restartedMain] com.flightApp.cofig.WebSecurityConfig    : configure called
+2021-12-24 09:39:45.962  INFO [user-ws,,] 13064 --- [restartedMain] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2109e107, org.springframework.security.web.context.SecurityContextPersistenceFilter@79267b70, org.springframework.security.web.header.HeaderWriterFilter@7b75f800, org.springframework.web.filter.CorsFilter@5491e119, org.springframework.security.web.authentication.logout.LogoutFilter@7fd389b5, com.flightApp.cofig.JwtRequestFilter@37b7fe7, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@beaae77, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@56c9728b, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@7e2179ce, org.springframework.security.web.session.SessionManagementFilter@9e27c86, org.springframework.security.web.access.ExceptionTranslationFilter@70c7d641, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@4b0e44fd]
+2021-12-24 09:39:49.209  INFO [user-ws,,] 13064 --- [restartedMain] o.s.cloud.commons.util.InetUtils         : Cannot determine local hostname
+2021-12-24 09:39:49.256  INFO [user-ws,,] 13064 --- [restartedMain] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2021-12-24 09:39:50.173  WARN [user-ws,,] 13064 --- [restartedMain] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2021-12-24 09:39:50.491  INFO [user-ws,,] 13064 --- [restartedMain] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2021-12-24 09:39:50.641  INFO [user-ws,,] 13064 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2021-12-24 09:39:50.653  INFO [user-ws,,] 13064 --- [restartedMain] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 09:39:50.702  INFO [user-ws,,] 13064 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2021-12-24 09:39:50.702  INFO [user-ws,,] 13064 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2021-12-24 09:39:50.703  INFO [user-ws,,] 13064 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2021-12-24 09:39:50.703  INFO [user-ws,,] 13064 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2021-12-24 09:39:50.703  INFO [user-ws,,] 13064 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2021-12-24 09:39:50.703  INFO [user-ws,,] 13064 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2021-12-24 09:39:50.703  INFO [user-ws,,] 13064 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2021-12-24 09:39:51.054  INFO [user-ws,,] 13064 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2021-12-24 09:39:51.058  INFO [user-ws,,] 13064 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2021-12-24 09:39:51.062  INFO [user-ws,,] 13064 --- [restartedMain] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2021-12-24 09:39:51.070  INFO [user-ws,,] 13064 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1640318991068 with initial instances count: 2
+2021-12-24 09:39:51.096  INFO [user-ws,,] 13064 --- [restartedMain] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application USER-WS with eureka with status UP
+2021-12-24 09:39:51.097  INFO [user-ws,,] 13064 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1640318991097, current=UP, previous=STARTING]
+2021-12-24 09:39:51.100  INFO [user-ws,,] 13064 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_USER-WS/user-ws:8d30e7d1ac5fff766a21114853543197: registering service...
+2021-12-24 09:39:51.143  INFO [user-ws,,] 13064 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8083 (http) with context path ''
+2021-12-24 09:39:51.146  INFO [user-ws,,] 13064 --- [restartedMain] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 8083
+2021-12-24 09:39:52.332  INFO [user-ws,,] 13064 --- [restartedMain] o.s.cloud.commons.util.InetUtils         : Cannot determine local hostname
+2021-12-24 09:39:52.868  INFO [user-ws,,] 13064 --- [restartedMain] com.flightApp.UserServiceApp             : Started UserServiceApp in 47.912 seconds (JVM running for 49.48)
+2021-12-24 09:40:01.507  WARN [user-ws,,] 13064 --- [registrationTask1] d.c.b.a.c.r.ApplicationRegistrator       : Failed to register application as Application(name=user-ws, managementUrl=http://DESKTOP-PLCALCU:8083/actuator, healthUrl=http://DESKTOP-PLCALCU:8083/actuator/health, serviceUrl=http://DESKTOP-PLCALCU:8083/) at spring-boot-admin ([http://localhost:9090/instances]): I/O error on POST request for "http://localhost:9090/instances": Connect to localhost:9090 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:9090 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect. Further attempts are logged on DEBUG level
+2021-12-24 09:40:21.174  INFO [user-ws,,] 13064 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_USER-WS/user-ws:8d30e7d1ac5fff766a21114853543197 - Re-registering apps/USER-WS
+2021-12-24 09:40:21.174  INFO [user-ws,,] 13064 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_USER-WS/user-ws:8d30e7d1ac5fff766a21114853543197: registering service...
+2021-12-24 09:40:51.077  WARN [user-ws,,] 13064 --- [DiscoveryClient-0] c.netflix.discovery.TimedSupervisorTask  : task supervisor timed out
+
+java.util.concurrent.TimeoutException: null
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:204) ~[na:na]
+	at com.netflix.discovery.TimedSupervisorTask.run(TimedSupervisorTask.java:68) ~[eureka-client-1.10.16.jar:1.10.16]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:834) ~[na:na]
+
+2021-12-24 09:40:51.077  WARN [user-ws,,] 13064 --- [DiscoveryClient-1] c.netflix.discovery.TimedSupervisorTask  : task supervisor timed out
+
+java.util.concurrent.TimeoutException: null
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:204) ~[na:na]
+	at com.netflix.discovery.TimedSupervisorTask.run(TimedSupervisorTask.java:68) ~[eureka-client-1.10.16.jar:1.10.16]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:834) ~[na:na]
+
+2021-12-24 09:41:51.098  INFO [user-ws,,] 13064 --- [DiscoveryClient-HeartbeatExecutor-1] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_USER-WS/user-ws:8d30e7d1ac5fff766a21114853543197 - Re-registering apps/USER-WS
+2021-12-24 09:41:51.099  INFO [user-ws,,] 13064 --- [DiscoveryClient-HeartbeatExecutor-1] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_USER-WS/user-ws:8d30e7d1ac5fff766a21114853543197: registering service...
+2021-12-24 09:42:21.095  WARN [user-ws,,] 13064 --- [DiscoveryClient-0] c.netflix.discovery.TimedSupervisorTask  : task supervisor timed out
+
+java.util.concurrent.TimeoutException: null
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:204) ~[na:na]
+	at com.netflix.discovery.TimedSupervisorTask.run(TimedSupervisorTask.java:68) ~[eureka-client-1.10.16.jar:1.10.16]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:834) ~[na:na]
+
+2021-12-24 09:42:21.098  WARN [user-ws,,] 13064 --- [DiscoveryClient-1] c.netflix.discovery.TimedSupervisorTask  : task supervisor timed out
+
+java.util.concurrent.TimeoutException: null
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:204) ~[na:na]
+	at com.netflix.discovery.TimedSupervisorTask.run(TimedSupervisorTask.java:68) ~[eureka-client-1.10.16.jar:1.10.16]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:834) ~[na:na]
+
+2021-12-24 09:44:21.114  WARN [user-ws,,] 13064 --- [DiscoveryClient-0] c.netflix.discovery.TimedSupervisorTask  : task supervisor rejected the task
+
+java.util.concurrent.RejectedExecutionException: Task java.util.concurrent.FutureTask@7eb14670[Not completed, task = java.util.concurrent.Executors$RunnableAdapter@35304ab0[Wrapped task = com.netflix.discovery.DiscoveryClient$CacheRefreshThread@5d859b64]] rejected from java.util.concurrent.ThreadPoolExecutor@30c0b549[Running, pool size = 2, active threads = 2, queued tasks = 0, completed tasks = 0]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2055) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:825) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1355) ~[na:na]
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:118) ~[na:na]
+	at com.netflix.discovery.TimedSupervisorTask.run(TimedSupervisorTask.java:66) ~[eureka-client-1.10.16.jar:1.10.16]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:834) ~[na:na]
+
+2021-12-24 09:44:21.114  WARN [user-ws,,] 13064 --- [DiscoveryClient-1] c.netflix.discovery.TimedSupervisorTask  : task supervisor rejected the task
+
+java.util.concurrent.RejectedExecutionException: Task java.util.concurrent.FutureTask@6e39fcd6[Not completed, task = java.util.concurrent.Executors$RunnableAdapter@70adaa67[Wrapped task = com.netflix.discovery.DiscoveryClient$HeartbeatThread@53867667]] rejected from java.util.concurrent.ThreadPoolExecutor@25abe1e4[Running, pool size = 2, active threads = 2, queued tasks = 0, completed tasks = 0]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2055) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:825) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1355) ~[na:na]
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:118) ~[na:na]
+	at com.netflix.discovery.TimedSupervisorTask.run(TimedSupervisorTask.java:66) ~[eureka-client-1.10.16.jar:1.10.16]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:834) ~[na:na]
+
+2021-12-24 09:44:50.719  INFO [user-ws,,] 13064 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 11:03:49.746  INFO [user-ws,,] 13188 --- [restartedMain] com.flightApp.UserServiceApp             : Starting UserServiceApp using Java 11.0.13 on DESKTOP-PLCALCU with PID 13188 (C:\Users\user\Documents\project_apis\Flight-booking-API\userService\target\classes started by user in C:\Users\user\Documents\project_apis\Flight-booking-API\userService)
+2021-12-24 11:03:49.748  INFO [user-ws,,] 13188 --- [restartedMain] com.flightApp.UserServiceApp             : No active profile set, falling back to default profiles: default
+2021-12-24 11:03:49.881  INFO [user-ws,,] 13188 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-12-24 11:03:49.882  INFO [user-ws,,] 13188 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-12-24 11:03:52.964  INFO [user-ws,,] 13188 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-24 11:03:53.305  INFO [user-ws,,] 13188 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 326 ms. Found 1 JPA repository interfaces.
+2021-12-24 11:03:54.322  INFO [user-ws,,] 13188 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=2be5ea8f-ae78-3d4c-a7d8-422658e5fbd8
+2021-12-24 11:03:55.107  INFO [user-ws,,] 13188 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@180cb1fe' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-12-24 11:03:55.144  INFO [user-ws,,] 13188 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-12-24 11:03:56.648  INFO [user-ws,,] 13188 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8083 (http)
+2021-12-24 11:03:56.668  INFO [user-ws,,] 13188 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-12-24 11:03:56.668  INFO [user-ws,,] 13188 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.55]
+2021-12-24 11:03:57.016  INFO [user-ws,,] 13188 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-12-24 11:03:57.016  INFO [user-ws,,] 13188 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 7133 ms
+2021-12-24 11:03:58.250  INFO [user-ws,,] 13188 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-24 11:03:58.358  INFO [user-ws,,] 13188 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-12-24 11:03:58.635  INFO [user-ws,,] 13188 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-12-24 11:03:58.842  INFO [user-ws,,] 13188 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-12-24 11:04:16.411  INFO [user-ws,,] 13188 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-12-24 11:04:16.471  INFO [user-ws,,] 13188 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-12-24 11:04:18.578  INFO [user-ws,,] 13188 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-24 11:04:18.597  INFO [user-ws,,] 13188 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-24 11:04:20.911  WARN [user-ws,,] 13188 --- [restartedMain] o.s.c.s.a.z.ZipkinAutoConfiguration      : Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": connect timed out; nested exception is java.net.SocketTimeoutException: connect timed out}]
+2021-12-24 11:04:22.855  INFO [user-ws,,] 13188 --- [restartedMain] o.s.cloud.commons.util.InetUtils         : Cannot determine local hostname
+2021-12-24 11:04:23.350  WARN [user-ws,,] 13188 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-24 11:04:23.586  INFO [user-ws,,] 13188 --- [restartedMain] com.flightApp.cofig.WebSecurityConfig    : configureGlobal called
+2021-12-24 11:04:23.647  INFO [user-ws,,] 13188 --- [restartedMain] com.flightApp.cofig.WebSecurityConfig    : passwordEncoder called
+2021-12-24 11:04:23.882  WARN [user-ws,,] 13188 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2021-12-24 11:04:23.995  INFO [user-ws,,] 13188 --- [restartedMain] o.s.c.openfeign.FeignClientFactoryBean   : For 'FLIGHT-WS' URL not provided. Will try picking an instance via load-balancing.
+2021-12-24 11:04:24.456  INFO [user-ws,,] 13188 --- [restartedMain] com.flightApp.cofig.WebSecurityConfig    : authenticationManagerBean called
+2021-12-24 11:04:25.706  INFO [user-ws,,] 13188 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2021-12-24 11:04:26.183  INFO [user-ws,,] 13188 --- [restartedMain] com.flightApp.cofig.WebSecurityConfig    : configure called
+2021-12-24 11:04:26.725  INFO [user-ws,,] 13188 --- [restartedMain] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@246f7bf0, org.springframework.security.web.context.SecurityContextPersistenceFilter@22329844, org.springframework.security.web.header.HeaderWriterFilter@3dd19ec, org.springframework.web.filter.CorsFilter@1e16b27a, org.springframework.security.web.authentication.logout.LogoutFilter@467d4b57, com.flightApp.cofig.JwtRequestFilter@6123236d, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@23916450, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@367b5cb4, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4b8e0f41, org.springframework.security.web.session.SessionManagementFilter@17ddf183, org.springframework.security.web.access.ExceptionTranslationFilter@2b8908a9, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@56f406d3]
+2021-12-24 11:04:30.146  INFO [user-ws,,] 13188 --- [restartedMain] o.s.cloud.commons.util.InetUtils         : Cannot determine local hostname
+2021-12-24 11:04:30.197  INFO [user-ws,,] 13188 --- [restartedMain] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2021-12-24 11:04:30.868  WARN [user-ws,,] 13188 --- [restartedMain] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2021-12-24 11:04:31.186  INFO [user-ws,,] 13188 --- [restartedMain] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2021-12-24 11:04:31.332  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2021-12-24 11:04:31.342  INFO [user-ws,,] 13188 --- [restartedMain] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 11:04:31.386  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2021-12-24 11:04:31.386  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2021-12-24 11:04:31.387  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2021-12-24 11:04:31.387  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2021-12-24 11:04:31.387  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2021-12-24 11:04:31.387  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2021-12-24 11:04:31.388  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2021-12-24 11:04:31.726  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2021-12-24 11:04:31.731  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2021-12-24 11:04:31.735  INFO [user-ws,,] 13188 --- [restartedMain] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2021-12-24 11:04:31.744  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1640324071742 with initial instances count: 12
+2021-12-24 11:04:31.766  INFO [user-ws,,] 13188 --- [restartedMain] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application USER-WS with eureka with status UP
+2021-12-24 11:04:31.767  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1640324071767, current=UP, previous=STARTING]
+2021-12-24 11:04:31.777  INFO [user-ws,,] 13188 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_USER-WS/user-ws:e5dfafcd3ed14a6b40192269a3e893da: registering service...
+2021-12-24 11:04:31.830  INFO [user-ws,,] 13188 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8083 (http) with context path ''
+2021-12-24 11:04:31.832  INFO [user-ws,,] 13188 --- [restartedMain] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 8083
+2021-12-24 11:04:31.860  INFO [user-ws,,] 13188 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_USER-WS/user-ws:e5dfafcd3ed14a6b40192269a3e893da - registration status: 204
+2021-12-24 11:04:33.009  INFO [user-ws,,] 13188 --- [restartedMain] o.s.cloud.commons.util.InetUtils         : Cannot determine local hostname
+2021-12-24 11:04:33.547  INFO [user-ws,,] 13188 --- [restartedMain] com.flightApp.UserServiceApp             : Started UserServiceApp in 45.946 seconds (JVM running for 47.561)
+2021-12-24 11:04:42.149  WARN [user-ws,,] 13188 --- [registrationTask1] d.c.b.a.c.r.ApplicationRegistrator       : Failed to register application as Application(name=user-ws, managementUrl=http://DESKTOP-PLCALCU:8083/actuator, healthUrl=http://DESKTOP-PLCALCU:8083/actuator/health, serviceUrl=http://DESKTOP-PLCALCU:8083/) at spring-boot-admin ([http://localhost:9090/instances]): I/O error on POST request for "http://localhost:9090/instances": Connect to localhost:9090 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:9090 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect. Further attempts are logged on DEBUG level
+2021-12-24 11:05:01.360  INFO [user-ws,,] 13188 --- [http-nio-8083-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-24 11:05:01.361  INFO [user-ws,,] 13188 --- [http-nio-8083-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-12-24 11:05:01.365  INFO [user-ws,,] 13188 --- [http-nio-8083-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2021-12-24 11:05:01.429  INFO [user-ws,9b8dc3663cb395ae,9b8dc3663cb395ae] 13188 --- [http-nio-8083-exec-1] com.flightApp.cofig.JwtRequestFilter     : called doFilterInternal
+2021-12-24 11:05:01.429  INFO [user-ws,9b8dc3663cb395ae,9b8dc3663cb395ae] 13188 --- [http-nio-8083-exec-1] com.flightApp.cofig.JwtRequestFilter     : JWT Token does not begin with Bearer String
+2021-12-24 11:05:01.484  INFO [user-ws,9b8dc3663cb395ae,9b8dc3663cb395ae] 13188 --- [http-nio-8083-exec-1] c.f.c.JwtAuthenticationController        : started createAuthenticationToken **
+2021-12-24 11:05:01.485  INFO [user-ws,9b8dc3663cb395ae,9b8dc3663cb395ae] 13188 --- [http-nio-8083-exec-1] c.f.c.JwtAuthenticationController        : started authenticate **
+2021-12-24 11:05:01.601  INFO [user-ws,9b8dc3663cb395ae,9b8dc3663cb395ae] 13188 --- [http-nio-8083-exec-1] c.f.Services.JWTUserDetailsService       : called loadUserByUsername
+2021-12-24 11:05:02.371  INFO [user-ws,9b8dc3663cb395ae,9b8dc3663cb395ae] 13188 --- [http-nio-8083-exec-1] c.f.cofig.JwtAuthenticationEntryPoint    : callled commence
+2021-12-24 11:05:03.911  WARN [user-ws,,] 13188 --- [AsyncReporter{RestTemplateSender{http://localhost:9411/api/v2/spans}}] z.r.AsyncReporter$BoundedAsyncReporter   : Spans were dropped due to exceptions. All subsequent errors will be logged at FINE level.
+2021-12-24 11:05:03.920  WARN [user-ws,,] 13188 --- [AsyncReporter{RestTemplateSender{http://localhost:9411/api/v2/spans}}] z.r.AsyncReporter$BoundedAsyncReporter   : Dropped 1 spans due to ResourceAccessException(I/O error on POST request for "http://localhost:9411/api/v2/spans": connect timed out; nested exception is java.net.SocketTimeoutException: connect timed out)
+
+org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": connect timed out; nested exception is java.net.SocketTimeoutException: connect timed out
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:785) ~[spring-web-5.3.13.jar:5.3.13]
+	at org.springframework.cloud.sleuth.zipkin2.ZipkinRestTemplateWrapper.doExecute(ZipkinRestTemplateWrapper.java:69) ~[spring-cloud-sleuth-zipkin-3.0.4.jar:3.0.4]
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:660) ~[spring-web-5.3.13.jar:5.3.13]
+	at org.springframework.cloud.sleuth.zipkin2.RestTemplateSender.post(RestTemplateSender.java:151) ~[spring-cloud-sleuth-zipkin-3.0.4.jar:3.0.4]
+	at org.springframework.cloud.sleuth.zipkin2.RestTemplateSender$HttpPostCall.doExecute(RestTemplateSender.java:169) ~[spring-cloud-sleuth-zipkin-3.0.4.jar:3.0.4]
+	at org.springframework.cloud.sleuth.zipkin2.RestTemplateSender$HttpPostCall.doExecute(RestTemplateSender.java:159) ~[spring-cloud-sleuth-zipkin-3.0.4.jar:3.0.4]
+	at zipkin2.Call$Base.execute(Call.java:391) ~[zipkin-2.23.0.jar:na]
+	at zipkin2.reporter.AsyncReporter$BoundedAsyncReporter.flush(AsyncReporter.java:299) ~[zipkin-reporter-2.16.1.jar:na]
+	at zipkin2.reporter.AsyncReporter$Flusher.run(AsyncReporter.java:378) ~[zipkin-reporter-2.16.1.jar:na]
+	at java.base/java.lang.Thread.run(Thread.java:834) ~[na:na]
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at java.base/java.net.PlainSocketImpl.waitForConnect(Native Method) ~[na:na]
+	at java.base/java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:107) ~[na:na]
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:412) ~[na:na]
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:255) ~[na:na]
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:237) ~[na:na]
+	at java.base/java.net.Socket.connect(Socket.java:608) ~[na:na]
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177) ~[na:na]
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:474) ~[na:na]
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:569) ~[na:na]
+	at java.base/sun.net.www.http.HttpClient.<init>(HttpClient.java:242) ~[na:na]
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:341) ~[na:na]
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:362) ~[na:na]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1253) ~[na:na]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1187) ~[na:na]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1081) ~[na:na]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1015) ~[na:na]
+	at org.springframework.http.client.SimpleBufferingClientHttpRequest.executeInternal(SimpleBufferingClientHttpRequest.java:76) ~[spring-web-5.3.13.jar:5.3.13]
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48) ~[spring-web-5.3.13.jar:5.3.13]
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66) ~[spring-web-5.3.13.jar:5.3.13]
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:776) ~[spring-web-5.3.13.jar:5.3.13]
+	... 9 common frames omitted
+
+2021-12-24 11:05:20.482  INFO [user-ws,d1eaca7ef86fde86,d1eaca7ef86fde86] 13188 --- [http-nio-8083-exec-2] com.flightApp.cofig.JwtRequestFilter     : called doFilterInternal
+2021-12-24 11:05:20.483  INFO [user-ws,d1eaca7ef86fde86,d1eaca7ef86fde86] 13188 --- [http-nio-8083-exec-2] com.flightApp.cofig.JwtRequestFilter     : JWT Token does not begin with Bearer String
+2021-12-24 11:05:20.487  INFO [user-ws,d1eaca7ef86fde86,d1eaca7ef86fde86] 13188 --- [http-nio-8083-exec-2] c.f.c.JwtAuthenticationController        : started getCurrentLoggedInUser **
+2021-12-24 11:05:20.881  INFO [user-ws,d1eaca7ef86fde86,d1eaca7ef86fde86] 13188 --- [http-nio-8083-exec-2] c.f.Services.JWTUserDetailsService       : called bcryptPassword
+2021-12-24 11:05:40.066  INFO [user-ws,649af3357a26c788,649af3357a26c788] 13188 --- [http-nio-8083-exec-3] com.flightApp.cofig.JwtRequestFilter     : called doFilterInternal
+2021-12-24 11:05:40.067  INFO [user-ws,649af3357a26c788,649af3357a26c788] 13188 --- [http-nio-8083-exec-3] com.flightApp.cofig.JwtRequestFilter     : JWT Token does not begin with Bearer String
+2021-12-24 11:05:40.069  INFO [user-ws,649af3357a26c788,649af3357a26c788] 13188 --- [http-nio-8083-exec-3] c.f.c.JwtAuthenticationController        : started createAuthenticationToken **
+2021-12-24 11:05:40.070  INFO [user-ws,649af3357a26c788,649af3357a26c788] 13188 --- [http-nio-8083-exec-3] c.f.c.JwtAuthenticationController        : started authenticate **
+2021-12-24 11:05:40.070  INFO [user-ws,649af3357a26c788,649af3357a26c788] 13188 --- [http-nio-8083-exec-3] c.f.Services.JWTUserDetailsService       : called loadUserByUsername
+2021-12-24 11:05:40.578  INFO [user-ws,649af3357a26c788,649af3357a26c788] 13188 --- [http-nio-8083-exec-3] c.f.Services.JWTUserDetailsService       : called loadUserByUsername
+2021-12-24 11:05:40.775  INFO [user-ws,649af3357a26c788,649af3357a26c788] 13188 --- [http-nio-8083-exec-3] com.flightApp.cofig.JwtTokenUtil         : generateToken called
+2021-12-24 11:05:40.776  INFO [user-ws,649af3357a26c788,649af3357a26c788] 13188 --- [http-nio-8083-exec-3] com.flightApp.cofig.JwtTokenUtil         : doGenerateToken called
+2021-12-24 11:05:41.203  INFO [user-ws,f4846ea1b6ea786f,f4846ea1b6ea786f] 13188 --- [http-nio-8083-exec-4] com.flightApp.cofig.JwtRequestFilter     : called doFilterInternal
+2021-12-24 11:05:41.203  INFO [user-ws,f4846ea1b6ea786f,f4846ea1b6ea786f] 13188 --- [http-nio-8083-exec-4] com.flightApp.cofig.JwtTokenUtil         : getUsernameFromToken
+2021-12-24 11:05:41.204  INFO [user-ws,f4846ea1b6ea786f,f4846ea1b6ea786f] 13188 --- [http-nio-8083-exec-4] com.flightApp.cofig.JwtTokenUtil         : getClaimFromToken called
+2021-12-24 11:05:41.205  INFO [user-ws,f4846ea1b6ea786f,f4846ea1b6ea786f] 13188 --- [http-nio-8083-exec-4] com.flightApp.cofig.JwtTokenUtil         : getAllClaimsFromToken called
+2021-12-24 11:05:41.225  INFO [user-ws,f4846ea1b6ea786f,f4846ea1b6ea786f] 13188 --- [http-nio-8083-exec-4] c.f.Services.JWTUserDetailsService       : called loadUserByUsername
+2021-12-24 11:05:41.649  INFO [user-ws,f4846ea1b6ea786f,f4846ea1b6ea786f] 13188 --- [http-nio-8083-exec-4] com.flightApp.cofig.JwtTokenUtil         : validateToken called
+2021-12-24 11:05:41.649  INFO [user-ws,f4846ea1b6ea786f,f4846ea1b6ea786f] 13188 --- [http-nio-8083-exec-4] com.flightApp.cofig.JwtTokenUtil         : getUsernameFromToken
+2021-12-24 11:05:41.649  INFO [user-ws,f4846ea1b6ea786f,f4846ea1b6ea786f] 13188 --- [http-nio-8083-exec-4] com.flightApp.cofig.JwtTokenUtil         : getClaimFromToken called
+2021-12-24 11:05:41.649  INFO [user-ws,f4846ea1b6ea786f,f4846ea1b6ea786f] 13188 --- [http-nio-8083-exec-4] com.flightApp.cofig.JwtTokenUtil         : getAllClaimsFromToken called
+2021-12-24 11:05:41.651  INFO [user-ws,f4846ea1b6ea786f,f4846ea1b6ea786f] 13188 --- [http-nio-8083-exec-4] com.flightApp.cofig.JwtTokenUtil         : isTokenExpired called
+2021-12-24 11:05:41.651  INFO [user-ws,f4846ea1b6ea786f,f4846ea1b6ea786f] 13188 --- [http-nio-8083-exec-4] com.flightApp.cofig.JwtTokenUtil         : getExpirationDateFromToken called
+2021-12-24 11:05:41.652  INFO [user-ws,f4846ea1b6ea786f,f4846ea1b6ea786f] 13188 --- [http-nio-8083-exec-4] com.flightApp.cofig.JwtTokenUtil         : getClaimFromToken called
+2021-12-24 11:05:41.652  INFO [user-ws,f4846ea1b6ea786f,f4846ea1b6ea786f] 13188 --- [http-nio-8083-exec-4] com.flightApp.cofig.JwtTokenUtil         : getAllClaimsFromToken called
+2021-12-24 11:05:41.664  INFO [user-ws,f4846ea1b6ea786f,f4846ea1b6ea786f] 13188 --- [http-nio-8083-exec-4] c.f.c.JwtAuthenticationController        : started getCurrentLoggedInUser **
+2021-12-24 11:05:41.665  INFO [user-ws,f4846ea1b6ea786f,f4846ea1b6ea786f] 13188 --- [http-nio-8083-exec-4] c.f.Services.JWTUserDetailsService       : called findUser
+2021-12-24 11:07:38.329  INFO [user-ws,8f7b0b3e3f74815f,8f7b0b3e3f74815f] 13188 --- [http-nio-8083-exec-6] com.flightApp.cofig.JwtRequestFilter     : called doFilterInternal
+2021-12-24 11:07:38.330  INFO [user-ws,8f7b0b3e3f74815f,8f7b0b3e3f74815f] 13188 --- [http-nio-8083-exec-6] com.flightApp.cofig.JwtTokenUtil         : getUsernameFromToken
+2021-12-24 11:07:38.330  INFO [user-ws,8f7b0b3e3f74815f,8f7b0b3e3f74815f] 13188 --- [http-nio-8083-exec-6] com.flightApp.cofig.JwtTokenUtil         : getClaimFromToken called
+2021-12-24 11:07:38.330  INFO [user-ws,8f7b0b3e3f74815f,8f7b0b3e3f74815f] 13188 --- [http-nio-8083-exec-6] com.flightApp.cofig.JwtTokenUtil         : getAllClaimsFromToken called
+2021-12-24 11:07:38.331  INFO [user-ws,8f7b0b3e3f74815f,8f7b0b3e3f74815f] 13188 --- [http-nio-8083-exec-6] c.f.Services.JWTUserDetailsService       : called loadUserByUsername
+2021-12-24 11:07:38.727  INFO [user-ws,8f7b0b3e3f74815f,8f7b0b3e3f74815f] 13188 --- [http-nio-8083-exec-6] com.flightApp.cofig.JwtTokenUtil         : validateToken called
+2021-12-24 11:07:38.728  INFO [user-ws,8f7b0b3e3f74815f,8f7b0b3e3f74815f] 13188 --- [http-nio-8083-exec-6] com.flightApp.cofig.JwtTokenUtil         : getUsernameFromToken
+2021-12-24 11:07:38.728  INFO [user-ws,8f7b0b3e3f74815f,8f7b0b3e3f74815f] 13188 --- [http-nio-8083-exec-6] com.flightApp.cofig.JwtTokenUtil         : getClaimFromToken called
+2021-12-24 11:07:38.728  INFO [user-ws,8f7b0b3e3f74815f,8f7b0b3e3f74815f] 13188 --- [http-nio-8083-exec-6] com.flightApp.cofig.JwtTokenUtil         : getAllClaimsFromToken called
+2021-12-24 11:07:38.729  INFO [user-ws,8f7b0b3e3f74815f,8f7b0b3e3f74815f] 13188 --- [http-nio-8083-exec-6] com.flightApp.cofig.JwtTokenUtil         : isTokenExpired called
+2021-12-24 11:07:38.729  INFO [user-ws,8f7b0b3e3f74815f,8f7b0b3e3f74815f] 13188 --- [http-nio-8083-exec-6] com.flightApp.cofig.JwtTokenUtil         : getExpirationDateFromToken called
+2021-12-24 11:07:38.730  INFO [user-ws,8f7b0b3e3f74815f,8f7b0b3e3f74815f] 13188 --- [http-nio-8083-exec-6] com.flightApp.cofig.JwtTokenUtil         : getClaimFromToken called
+2021-12-24 11:07:38.730  INFO [user-ws,8f7b0b3e3f74815f,8f7b0b3e3f74815f] 13188 --- [http-nio-8083-exec-6] com.flightApp.cofig.JwtTokenUtil         : getAllClaimsFromToken called
+2021-12-24 11:07:38.788  INFO [user-ws,8f7b0b3e3f74815f,8f7b0b3e3f74815f] 13188 --- [http-nio-8083-exec-6] c.f.controllers.BookingController        : called getUserTickets
+2021-12-24 11:07:41.181  INFO [user-ws,dfb3993b28802ec5,dfb3993b28802ec5] 13188 --- [http-nio-8083-exec-7] com.flightApp.cofig.JwtRequestFilter     : called doFilterInternal
+2021-12-24 11:07:41.182  INFO [user-ws,dfb3993b28802ec5,dfb3993b28802ec5] 13188 --- [http-nio-8083-exec-7] com.flightApp.cofig.JwtTokenUtil         : getUsernameFromToken
+2021-12-24 11:07:41.182  INFO [user-ws,dfb3993b28802ec5,dfb3993b28802ec5] 13188 --- [http-nio-8083-exec-7] com.flightApp.cofig.JwtTokenUtil         : getClaimFromToken called
+2021-12-24 11:07:41.183  INFO [user-ws,dfb3993b28802ec5,dfb3993b28802ec5] 13188 --- [http-nio-8083-exec-7] com.flightApp.cofig.JwtTokenUtil         : getAllClaimsFromToken called
+2021-12-24 11:07:41.184  INFO [user-ws,dfb3993b28802ec5,dfb3993b28802ec5] 13188 --- [http-nio-8083-exec-7] c.f.Services.JWTUserDetailsService       : called loadUserByUsername
+2021-12-24 11:07:41.577  INFO [user-ws,dfb3993b28802ec5,dfb3993b28802ec5] 13188 --- [http-nio-8083-exec-7] com.flightApp.cofig.JwtTokenUtil         : validateToken called
+2021-12-24 11:07:41.578  INFO [user-ws,dfb3993b28802ec5,dfb3993b28802ec5] 13188 --- [http-nio-8083-exec-7] com.flightApp.cofig.JwtTokenUtil         : getUsernameFromToken
+2021-12-24 11:07:41.578  INFO [user-ws,dfb3993b28802ec5,dfb3993b28802ec5] 13188 --- [http-nio-8083-exec-7] com.flightApp.cofig.JwtTokenUtil         : getClaimFromToken called
+2021-12-24 11:07:41.578  INFO [user-ws,dfb3993b28802ec5,dfb3993b28802ec5] 13188 --- [http-nio-8083-exec-7] com.flightApp.cofig.JwtTokenUtil         : getAllClaimsFromToken called
+2021-12-24 11:07:41.579  INFO [user-ws,dfb3993b28802ec5,dfb3993b28802ec5] 13188 --- [http-nio-8083-exec-7] com.flightApp.cofig.JwtTokenUtil         : isTokenExpired called
+2021-12-24 11:07:41.580  INFO [user-ws,dfb3993b28802ec5,dfb3993b28802ec5] 13188 --- [http-nio-8083-exec-7] com.flightApp.cofig.JwtTokenUtil         : getExpirationDateFromToken called
+2021-12-24 11:07:41.580  INFO [user-ws,dfb3993b28802ec5,dfb3993b28802ec5] 13188 --- [http-nio-8083-exec-7] com.flightApp.cofig.JwtTokenUtil         : getClaimFromToken called
+2021-12-24 11:07:41.580  INFO [user-ws,dfb3993b28802ec5,dfb3993b28802ec5] 13188 --- [http-nio-8083-exec-7] com.flightApp.cofig.JwtTokenUtil         : getAllClaimsFromToken called
+2021-12-24 11:07:41.583  INFO [user-ws,dfb3993b28802ec5,dfb3993b28802ec5] 13188 --- [http-nio-8083-exec-7] c.f.controllers.BookingController        : called getUserTickets
+2021-12-24 11:09:31.404  INFO [user-ws,,] 13188 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 11:11:43.666  INFO [user-ws,7de13e79713512d7,7de13e79713512d7] 13188 --- [http-nio-8083-exec-9] com.flightApp.cofig.JwtRequestFilter     : called doFilterInternal
+2021-12-24 11:11:43.667  INFO [user-ws,7de13e79713512d7,7de13e79713512d7] 13188 --- [http-nio-8083-exec-9] com.flightApp.cofig.JwtRequestFilter     : JWT Token does not begin with Bearer String
+2021-12-24 11:11:43.670  INFO [user-ws,7de13e79713512d7,7de13e79713512d7] 13188 --- [http-nio-8083-exec-9] c.f.c.JwtAuthenticationController        : started createAuthenticationToken **
+2021-12-24 11:11:43.670  INFO [user-ws,7de13e79713512d7,7de13e79713512d7] 13188 --- [http-nio-8083-exec-9] c.f.c.JwtAuthenticationController        : started authenticate **
+2021-12-24 11:11:43.671  INFO [user-ws,7de13e79713512d7,7de13e79713512d7] 13188 --- [http-nio-8083-exec-9] c.f.Services.JWTUserDetailsService       : called loadUserByUsername
+2021-12-24 11:11:44.170  INFO [user-ws,7de13e79713512d7,7de13e79713512d7] 13188 --- [http-nio-8083-exec-9] c.f.Services.JWTUserDetailsService       : called loadUserByUsername
+2021-12-24 11:11:44.369  INFO [user-ws,7de13e79713512d7,7de13e79713512d7] 13188 --- [http-nio-8083-exec-9] com.flightApp.cofig.JwtTokenUtil         : generateToken called
+2021-12-24 11:11:44.370  INFO [user-ws,7de13e79713512d7,7de13e79713512d7] 13188 --- [http-nio-8083-exec-9] com.flightApp.cofig.JwtTokenUtil         : doGenerateToken called
+2021-12-24 11:11:44.392  INFO [user-ws,02dc4d810947b1b4,02dc4d810947b1b4] 13188 --- [http-nio-8083-exec-10] com.flightApp.cofig.JwtRequestFilter     : called doFilterInternal
+2021-12-24 11:11:44.392  INFO [user-ws,02dc4d810947b1b4,02dc4d810947b1b4] 13188 --- [http-nio-8083-exec-10] com.flightApp.cofig.JwtTokenUtil         : getUsernameFromToken
+2021-12-24 11:11:44.393  INFO [user-ws,02dc4d810947b1b4,02dc4d810947b1b4] 13188 --- [http-nio-8083-exec-10] com.flightApp.cofig.JwtTokenUtil         : getClaimFromToken called
+2021-12-24 11:11:44.393  INFO [user-ws,02dc4d810947b1b4,02dc4d810947b1b4] 13188 --- [http-nio-8083-exec-10] com.flightApp.cofig.JwtTokenUtil         : getAllClaimsFromToken called
+2021-12-24 11:11:44.394  INFO [user-ws,02dc4d810947b1b4,02dc4d810947b1b4] 13188 --- [http-nio-8083-exec-10] c.f.Services.JWTUserDetailsService       : called loadUserByUsername
+2021-12-24 11:11:44.593  INFO [user-ws,02dc4d810947b1b4,02dc4d810947b1b4] 13188 --- [http-nio-8083-exec-10] com.flightApp.cofig.JwtTokenUtil         : validateToken called
+2021-12-24 11:11:44.594  INFO [user-ws,02dc4d810947b1b4,02dc4d810947b1b4] 13188 --- [http-nio-8083-exec-10] com.flightApp.cofig.JwtTokenUtil         : getUsernameFromToken
+2021-12-24 11:11:44.595  INFO [user-ws,02dc4d810947b1b4,02dc4d810947b1b4] 13188 --- [http-nio-8083-exec-10] com.flightApp.cofig.JwtTokenUtil         : getClaimFromToken called
+2021-12-24 11:11:44.595  INFO [user-ws,02dc4d810947b1b4,02dc4d810947b1b4] 13188 --- [http-nio-8083-exec-10] com.flightApp.cofig.JwtTokenUtil         : getAllClaimsFromToken called
+2021-12-24 11:11:44.597  INFO [user-ws,02dc4d810947b1b4,02dc4d810947b1b4] 13188 --- [http-nio-8083-exec-10] com.flightApp.cofig.JwtTokenUtil         : isTokenExpired called
+2021-12-24 11:11:44.597  INFO [user-ws,02dc4d810947b1b4,02dc4d810947b1b4] 13188 --- [http-nio-8083-exec-10] com.flightApp.cofig.JwtTokenUtil         : getExpirationDateFromToken called
+2021-12-24 11:11:44.597  INFO [user-ws,02dc4d810947b1b4,02dc4d810947b1b4] 13188 --- [http-nio-8083-exec-10] com.flightApp.cofig.JwtTokenUtil         : getClaimFromToken called
+2021-12-24 11:11:44.597  INFO [user-ws,02dc4d810947b1b4,02dc4d810947b1b4] 13188 --- [http-nio-8083-exec-10] com.flightApp.cofig.JwtTokenUtil         : getAllClaimsFromToken called
+2021-12-24 11:11:44.642  INFO [user-ws,02dc4d810947b1b4,02dc4d810947b1b4] 13188 --- [http-nio-8083-exec-10] c.f.c.JwtAuthenticationController        : started getCurrentLoggedInUser **
+2021-12-24 11:11:44.643  INFO [user-ws,02dc4d810947b1b4,02dc4d810947b1b4] 13188 --- [http-nio-8083-exec-10] c.f.Services.JWTUserDetailsService       : called findUser
+2021-12-24 11:14:31.414  INFO [user-ws,,] 13188 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 11:19:31.423  INFO [user-ws,,] 13188 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 11:24:31.439  INFO [user-ws,,] 13188 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 11:29:31.447  INFO [user-ws,,] 13188 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 11:34:31.450  INFO [user-ws,,] 13188 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 11:39:31.460  INFO [user-ws,,] 13188 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 11:44:31.474  INFO [user-ws,,] 13188 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 11:49:31.485  INFO [user-ws,,] 13188 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 11:54:31.493  INFO [user-ws,,] 13188 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 11:59:31.496  INFO [user-ws,,] 13188 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 12:01:45.559  INFO [user-ws,,] 13188 --- [Thread-1] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application USER-WS with eureka with status DOWN
+2021-12-24 12:01:45.559  INFO [user-ws,,] 13188 --- [Thread-1] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1640327505559, current=DOWN, previous=UP]
+2021-12-24 12:01:45.560  INFO [user-ws,,] 13188 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_USER-WS/user-ws:e5dfafcd3ed14a6b40192269a3e893da: registering service...
+2021-12-24 12:01:45.579  INFO [user-ws,,] 13188 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_USER-WS/user-ws:e5dfafcd3ed14a6b40192269a3e893da - registration status: 204
+2021-12-24 12:01:45.769  WARN [user-ws,,] 13188 --- [Thread-1] s.c.a.AnnotationConfigApplicationContext : Exception thrown from ApplicationListener handling ContextClosedEvent
+
+org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'registrationListener': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:220) ~[spring-beans-5.3.13.jar:5.3.13]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.13.jar:5.3.13]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.13.jar:5.3.13]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.event.ApplicationListenerMethodAdapter.getTargetBean(ApplicationListenerMethodAdapter.java:371) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.event.ApplicationListenerMethodAdapter.doInvoke(ApplicationListenerMethodAdapter.java:336) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.event.ApplicationListenerMethodAdapter.processEvent(ApplicationListenerMethodAdapter.java:229) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.event.ApplicationListenerMethodAdapter.onApplicationEvent(ApplicationListenerMethodAdapter.java:166) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:176) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:169) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:143) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:421) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:427) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:378) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1058) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1021) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.cloud.context.named.NamedContextFactory.destroy(NamedContextFactory.java:92) ~[spring-cloud-context-3.0.4.jar:3.0.4]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:212) ~[spring-beans-5.3.13.jar:5.3.13]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:587) ~[spring-beans-5.3.13.jar:5.3.13]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:559) ~[spring-beans-5.3.13.jar:5.3.13]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1152) ~[spring-beans-5.3.13.jar:5.3.13]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:520) ~[spring-beans-5.3.13.jar:5.3.13]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1145) ~[spring-beans-5.3.13.jar:5.3.13]
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1106) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1075) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:172) ~[spring-boot-2.5.7.jar:2.5.7]
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1021) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.boot.devtools.restart.Restarter.stop(Restarter.java:309) ~[spring-boot-devtools-2.5.7.jar:2.5.7]
+	at org.springframework.boot.devtools.restart.Restarter.lambda$restart$1(Restarter.java:251) ~[spring-boot-devtools-2.5.7.jar:2.5.7]
+	at org.springframework.boot.devtools.restart.Restarter$LeakSafeThread.run(Restarter.java:629) ~[spring-boot-devtools-2.5.7.jar:2.5.7]
+
+2021-12-24 12:01:46.328  WARN [user-ws,,] 13188 --- [Thread-1] s.c.a.AnnotationConfigApplicationContext : Exception thrown from ApplicationListener handling ContextClosedEvent
+
+org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'registrationListener': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:220) ~[spring-beans-5.3.13.jar:5.3.13]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.13.jar:5.3.13]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.13.jar:5.3.13]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.event.ApplicationListenerMethodAdapter.getTargetBean(ApplicationListenerMethodAdapter.java:371) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.event.ApplicationListenerMethodAdapter.doInvoke(ApplicationListenerMethodAdapter.java:336) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.event.ApplicationListenerMethodAdapter.processEvent(ApplicationListenerMethodAdapter.java:229) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.event.ApplicationListenerMethodAdapter.onApplicationEvent(ApplicationListenerMethodAdapter.java:166) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:176) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:169) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:143) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:421) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:427) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:378) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1058) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1021) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.cloud.context.named.NamedContextFactory.destroy(NamedContextFactory.java:92) ~[spring-cloud-context-3.0.4.jar:3.0.4]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:212) ~[spring-beans-5.3.13.jar:5.3.13]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:587) ~[spring-beans-5.3.13.jar:5.3.13]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:559) ~[spring-beans-5.3.13.jar:5.3.13]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1152) ~[spring-beans-5.3.13.jar:5.3.13]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:520) ~[spring-beans-5.3.13.jar:5.3.13]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1145) ~[spring-beans-5.3.13.jar:5.3.13]
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1106) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1075) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:172) ~[spring-boot-2.5.7.jar:2.5.7]
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1021) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.boot.devtools.restart.Restarter.stop(Restarter.java:309) ~[spring-boot-devtools-2.5.7.jar:2.5.7]
+	at org.springframework.boot.devtools.restart.Restarter.lambda$restart$1(Restarter.java:251) ~[spring-boot-devtools-2.5.7.jar:2.5.7]
+	at org.springframework.boot.devtools.restart.Restarter$LeakSafeThread.run(Restarter.java:629) ~[spring-boot-devtools-2.5.7.jar:2.5.7]
+
+2021-12-24 12:01:46.331  INFO [user-ws,,] 13188 --- [Thread-1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-12-24 12:01:46.338  INFO [user-ws,,] 13188 --- [Thread-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2021-12-24 12:01:48.316  INFO [user-ws,,] 13188 --- [Thread-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2021-12-24 12:01:48.322  INFO [user-ws,,] 13188 --- [Thread-1] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2021-12-24 12:01:51.335  INFO [user-ws,,] 13188 --- [Thread-1] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2021-12-24 12:01:51.351  INFO [user-ws,,] 13188 --- [Thread-1] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_USER-WS/user-ws:e5dfafcd3ed14a6b40192269a3e893da - deregister  status: 200
+2021-12-24 12:01:51.357  INFO [user-ws,,] 13188 --- [Thread-1] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
+2021-12-24 12:01:52.825  INFO [user-ws,,] 13188 --- [restartedMain] com.flightApp.UserServiceApp             : Starting UserServiceApp using Java 11.0.13 on DESKTOP-PLCALCU with PID 13188 (C:\Users\user\Documents\project_apis\Flight-booking-API\userService\target\classes started by user in C:\Users\user\Documents\project_apis\Flight-booking-API\userService)
+2021-12-24 12:01:52.826  INFO [user-ws,,] 13188 --- [restartedMain] com.flightApp.UserServiceApp             : No active profile set, falling back to default profiles: default
+2021-12-24 12:01:54.127  INFO [user-ws,,] 13188 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-24 12:01:54.172  INFO [user-ws,,] 13188 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 44 ms. Found 1 JPA repository interfaces.
+2021-12-24 12:01:54.405  INFO [user-ws,,] 13188 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=2be5ea8f-ae78-3d4c-a7d8-422658e5fbd8
+2021-12-24 12:01:54.526  INFO [user-ws,,] 13188 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@5e715b10' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-12-24 12:01:54.539  INFO [user-ws,,] 13188 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-12-24 12:01:55.016  INFO [user-ws,,] 13188 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8083 (http)
+2021-12-24 12:01:55.018  INFO [user-ws,,] 13188 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-12-24 12:01:55.019  INFO [user-ws,,] 13188 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.55]
+2021-12-24 12:01:55.134  INFO [user-ws,,] 13188 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-12-24 12:01:55.134  INFO [user-ws,,] 13188 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2303 ms
+2021-12-24 12:01:55.800  INFO [user-ws,,] 13188 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-24 12:01:55.818  INFO [user-ws,,] 13188 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2021-12-24 12:01:57.805  INFO [user-ws,,] 13188 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2021-12-24 12:01:57.807  INFO [user-ws,,] 13188 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-12-24 12:01:58.281  INFO [user-ws,,] 13188 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-24 12:01:58.281  INFO [user-ws,,] 13188 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-24 12:01:59.652  WARN [user-ws,,] 13188 --- [restartedMain] o.s.c.s.a.z.ZipkinAutoConfiguration      : Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": connect timed out; nested exception is java.net.SocketTimeoutException: connect timed out}]
+2021-12-24 12:02:01.304  INFO [user-ws,,] 13188 --- [restartedMain] o.s.cloud.commons.util.InetUtils         : Cannot determine local hostname
+2021-12-24 12:02:01.624  WARN [user-ws,,] 13188 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-24 12:02:01.774  INFO [user-ws,,] 13188 --- [restartedMain] com.flightApp.cofig.WebSecurityConfig    : configureGlobal called
+2021-12-24 12:02:01.823  INFO [user-ws,,] 13188 --- [restartedMain] com.flightApp.cofig.WebSecurityConfig    : passwordEncoder called
+2021-12-24 12:02:01.997  WARN [user-ws,,] 13188 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2021-12-24 12:02:02.073  INFO [user-ws,,] 13188 --- [restartedMain] o.s.c.openfeign.FeignClientFactoryBean   : For 'FLIGHT-WS' URL not provided. Will try picking an instance via load-balancing.
+2021-12-24 12:02:02.393  INFO [user-ws,,] 13188 --- [restartedMain] com.flightApp.cofig.WebSecurityConfig    : authenticationManagerBean called
+2021-12-24 12:02:03.418  INFO [user-ws,,] 13188 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2021-12-24 12:02:03.681  INFO [user-ws,,] 13188 --- [restartedMain] com.flightApp.cofig.WebSecurityConfig    : configure called
+2021-12-24 12:02:04.125  INFO [user-ws,,] 13188 --- [restartedMain] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7a21ecae, org.springframework.security.web.context.SecurityContextPersistenceFilter@3c176df3, org.springframework.security.web.header.HeaderWriterFilter@3a4f8174, org.springframework.web.filter.CorsFilter@192a9737, org.springframework.security.web.authentication.logout.LogoutFilter@22aa64fc, com.flightApp.cofig.JwtRequestFilter@7fcb6601, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@27265a48, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@47b6c457, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@740c2c2, org.springframework.security.web.session.SessionManagementFilter@7a961d92, org.springframework.security.web.access.ExceptionTranslationFilter@4a02a73e, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@68f2fe77]
+2021-12-24 12:02:06.853  INFO [user-ws,,] 13188 --- [restartedMain] o.s.cloud.commons.util.InetUtils         : Cannot determine local hostname
+2021-12-24 12:02:06.924  INFO [user-ws,,] 13188 --- [restartedMain] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2021-12-24 12:02:07.496  WARN [user-ws,,] 13188 --- [restartedMain] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2021-12-24 12:02:07.750  INFO [user-ws,,] 13188 --- [restartedMain] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2021-12-24 12:02:07.863  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2021-12-24 12:02:07.864  INFO [user-ws,,] 13188 --- [restartedMain] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 12:02:07.879  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2021-12-24 12:02:07.879  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2021-12-24 12:02:07.881  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2021-12-24 12:02:07.881  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2021-12-24 12:02:07.881  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2021-12-24 12:02:07.881  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2021-12-24 12:02:07.881  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2021-12-24 12:02:07.908  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2021-12-24 12:02:07.911  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2021-12-24 12:02:07.913  INFO [user-ws,,] 13188 --- [restartedMain] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2021-12-24 12:02:07.914  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1640327527914 with initial instances count: 12
+2021-12-24 12:02:07.935  INFO [user-ws,,] 13188 --- [restartedMain] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application USER-WS with eureka with status UP
+2021-12-24 12:02:07.935  INFO [user-ws,,] 13188 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1640327527935, current=UP, previous=STARTING]
+2021-12-24 12:02:07.936  INFO [user-ws,,] 13188 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_USER-WS/user-ws:d8b5411304babab72288323141635a33: registering service...
+2021-12-24 12:02:07.942  INFO [user-ws,,] 13188 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8083 (http) with context path ''
+2021-12-24 12:02:07.943  INFO [user-ws,,] 13188 --- [restartedMain] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 8083
+2021-12-24 12:02:07.957  INFO [user-ws,,] 13188 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_USER-WS/user-ws:d8b5411304babab72288323141635a33 - registration status: 204
+2021-12-24 12:02:09.108  INFO [user-ws,,] 13188 --- [restartedMain] o.s.cloud.commons.util.InetUtils         : Cannot determine local hostname
+2021-12-24 12:02:09.386  INFO [user-ws,,] 13188 --- [restartedMain] com.flightApp.UserServiceApp             : Started UserServiceApp in 17.824 seconds (JVM running for 3503.401)
+2021-12-24 12:02:09.394  INFO [user-ws,,] 13188 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-12-24 12:02:17.977  WARN [user-ws,,] 13188 --- [registrationTask1] d.c.b.a.c.r.ApplicationRegistrator       : Failed to register application as Application(name=user-ws, managementUrl=http://DESKTOP-PLCALCU:8083/actuator, healthUrl=http://DESKTOP-PLCALCU:8083/actuator/health, serviceUrl=http://DESKTOP-PLCALCU:8083/) at spring-boot-admin ([http://localhost:9090/instances]): I/O error on POST request for "http://localhost:9090/instances": Connect to localhost:9090 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:9090 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect. Further attempts are logged on DEBUG level
+2021-12-24 12:07:07.887  INFO [user-ws,,] 13188 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 12:12:07.901  INFO [user-ws,,] 13188 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 12:17:07.913  INFO [user-ws,,] 13188 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 12:22:07.915  INFO [user-ws,,] 13188 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 12:27:07.918  INFO [user-ws,,] 13188 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 12:32:07.921  INFO [user-ws,,] 13188 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 12:37:07.934  INFO [user-ws,,] 13188 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 12:42:07.942  INFO [user-ws,,] 13188 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 12:47:07.948  INFO [user-ws,,] 13188 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-12-24 12:49:14.304  INFO [user-ws,,] 13188 --- [DiscoveryClient-HeartbeatExecutor-0] c.n.d.s.t.d.RedirectingEurekaHttpClient  : Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/} exception=I/O error on PUT request for "http://localhost:8761/eureka/apps/USER-WS/user-ws:d8b5411304babab72288323141635a33": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect stacktrace=org.springframework.web.client.ResourceAccessException: I/O error on PUT request for "http://localhost:8761/eureka/apps/USER-WS/user-ws:d8b5411304babab72288323141635a33": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:785)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:602)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.sendHeartBeat(RestTemplateEurekaHttpClient.java:99)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:91)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:893)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1457)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:156)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:87)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:776)
+	... 19 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.base/java.net.PlainSocketImpl.connect0(Native Method)
+	at java.base/java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:101)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:412)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:255)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:237)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.base/java.net.Socket.connect(Socket.java:608)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 32 more
+
+2021-12-24 12:49:14.305  WARN [user-ws,,] 13188 --- [DiscoveryClient-HeartbeatExecutor-0] c.n.d.s.t.d.RetryableEurekaHttpClient    : Request execution failed with message: I/O error on PUT request for "http://localhost:8761/eureka/apps/USER-WS/user-ws:d8b5411304babab72288323141635a33": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+2021-12-24 12:49:14.318  INFO [user-ws,,] 13188 --- [DiscoveryClient-CacheRefreshExecutor-0] c.n.d.s.t.d.RedirectingEurekaHttpClient  : Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/} exception=I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect stacktrace=org.springframework.web.client.ResourceAccessException: I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:785)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:602)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.getApplicationsInternal(RestTemplateEurekaHttpClient.java:145)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.getDelta(RestTemplateEurekaHttpClient.java:155)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:91)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.DiscoveryClient.getAndUpdateDelta(DiscoveryClient.java:1135)
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:1016)
+	at com.netflix.discovery.DiscoveryClient.refreshRegistry(DiscoveryClient.java:1531)
+	at com.netflix.discovery.DiscoveryClient$CacheRefreshThread.run(DiscoveryClient.java:1498)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:156)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:87)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:776)
+	... 22 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.base/java.net.PlainSocketImpl.connect0(Native Method)
+	at java.base/java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:101)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:412)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:255)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:237)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.base/java.net.Socket.connect(Socket.java:608)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 35 more
+
+2021-12-24 12:49:14.362  WARN [user-ws,,] 13188 --- [DiscoveryClient-CacheRefreshExecutor-0] c.n.d.s.t.d.RetryableEurekaHttpClient    : Request execution failed with message: I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
