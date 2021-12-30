@@ -1,5 +1,6 @@
 package com.flightApp.DTOs;
 
+import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -26,6 +27,8 @@ public class BookingDto {
 	private String flightId;
 
 	private String date;
+	
+	private LocalDate bookingDate;
 	
 	private String startTime;
 

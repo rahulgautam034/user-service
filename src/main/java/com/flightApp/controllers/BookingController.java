@@ -1,7 +1,6 @@
 package com.flightApp.controllers;
 
 import java.util.List;
-import java.util.UUID;
 
 import org.modelmapper.ModelMapper;
 import org.modelmapper.convention.MatchingStrategies;
@@ -87,8 +86,6 @@ public class BookingController {
 		log.info("called bookFlight");
 
 		BookingDto bookingDto = modelMapper.map(bookingRequestModel, BookingDto.class);
-		String flightId[] = UUID.randomUUID().toString().split("-");
-		bookingDto.setPnrNumber(flightId[0]);
 		BookingDto res = bookingProxy.bookFlight(bookingDto);
 
 		return ResponseEntity.status(HttpStatus.OK).body(modelMapper.map(res, BookingResponseModel.class));

@@ -1,5 +1,7 @@
 package com.flightApp.ui;
 
+import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -26,7 +28,9 @@ public class BookingResponseModel {
 	
 	private String flightId;
 
-	private String date;
+	private LocalDateTime date;
+	
+	private LocalDate bookingDate;
 	
 	private String startTime;
 
