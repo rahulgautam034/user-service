@@ -1,6 +1,6 @@
 package com.flightApp.Entities;
 
-import javax.persistence.Embeddable;
+import jakarta.persistence.Embeddable;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
